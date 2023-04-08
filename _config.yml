@@ -1,0 +1,11 @@
+theme: minima
+minima:
+  skin: dark
+
+title: Sankar
+author: ab-sankar 
+description: "Reflections on a conscious planet"
+email: ab.sankar.life@gmail.com
+
+header_pages:
+  - index.md
