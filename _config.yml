@@ -1,5 +1,8 @@
 title: Sankar
-author: ab-sankar 
+author: 
+  name: ab-sankar 
+  
+description: Reflections on a conscious planet
 
 remote_theme: jekyll/minima
 minima:
