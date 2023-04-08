@@ -1,9 +1,11 @@
-theme: minima
-minima:
-  skin: dark
-
 title: Sankar
 author: ab-sankar 
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+plugins:
+  - jekyll-remote-theme
 
 header_pages:
   - index.md
