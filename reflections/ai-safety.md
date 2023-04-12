@@ -18,7 +18,7 @@ title: AI Safety
     ### What is AI takeoff?
 
 
-    ### How is it a thread?
+    ### How can it be a threat to humanity?
 
 
     ### How can we mitigate that risk?
