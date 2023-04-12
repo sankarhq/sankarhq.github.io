@@ -45,7 +45,7 @@ title: AI Safety
     Please offer your ideas. Take some time to think about these questions. 
     After some reflection, write down your thoughts and send me.
 
-    For the programmers out there, I want a PR on [sankarhq.github.io]()
+    For the programmers out there, please provide a PR on [sankarhq.github.io]()
     Better yet, a deploy preview link.
 
 
