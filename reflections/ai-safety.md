@@ -17,11 +17,13 @@ title: AI Safety
 
     ### What is AI takeoff?
 
-
     ### How can it be a threat to humanity?
 
+    ### Is it possible for AI to takeoff?
 
-    ### How can we mitigate that risk?
+    ### If so, what may be a good estimte for time for takeoff?
+
+    ### How can we mitigate risk of a bad take off?
 
 
 3. How can we regulate AI?
@@ -44,13 +46,13 @@ title: AI Safety
     After some reflection, write down your thoughts and send me.
 
     For the programmers out there, I want a PR on [sankarhq.github.io]()
-    Better yet, a deployment preview.
+    Better yet, a deploy preview link.
 
 
 6. What should humanity do today to leverage AI safely?
 
 
-    _Yet unknown. Expecting to arrive at a profound truth..._
+    _Yet unknown. Expecting to arrive at a profound realisation..._
 
 
 
